@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Android Base Tool</string>
+
+    <string name="dialog_error">Error</string>
+    <string name="dialog_positive">OK</string>
+    <string name="dialog_add_installation">Add new installation</string>
+    <string name="dialog_installation_hint">Installation name</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_add_todo">Add new todo</string>
+    <string name="dialog_todo_hint">Todo description</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="login_incomplete_error">Enter a value for all fields.</string>
+    <string name="login_login_error">Unable to log in.</string>
+    <string name="login_progress">Logging in&#8230;</string>
+
+    <string name="drawer_general">General</string>
+    <string name="drawer_clients">Clients</string>
+    <string name="drawer_log_out">Log out</string>
+    <string name="drawer_synchronisation">Synchronisation</string>
+    <string name="drawer_synchronised">Everything is synchronised</string>
+    <string name="drawer_not_synchronised">Not everything is synchronised</string>
+    <string name="drawer_sync">Synchronise</string>
+
+    <string name="client_list_title">Client list</string>
+
+    <string name="toolbar_installation_document">%1$s - %2$s</string>
+
+    <string name="empty_list_client_location">There are no client locations to show</string>
+    <string name="empty_list_installation">There are no installations for this location</string>
+    <string name="empty_list_documents">There are no documents for this location</string>
+
+    <string name="list_client_city">%1$s - %2$s</string>
+    <string name="list_address">%1$s, %2$s %3$s</string>
+
+    <string name="add_installation_progress">Adding new installation&#8230;</string>
+    <string name="add_installation_error">Unable to add new installation.</string>
+
+    <string name="add_todo_progress">Adding new todo&#8230;</string>
+    <string name="add_todo_error">Unable to add new todo.</string>
+
+    <string name="download_document">You started downloading %1$s</string>
+
+
+
+</resources>

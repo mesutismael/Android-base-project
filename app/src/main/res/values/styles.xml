@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/general_primary</item>
+        <item name="colorPrimaryDark">@color/general_primary_dark</item>
+        <item name="colorAccent">@color/general_accent</item>
+        <item name="android:textViewStyle">@style/Imc.TextView</item>
+        <item name="buttonStyle">@style/Imc.Button</item>
+    </style>
+
+    <style name="AppTheme.TranslucentStatusBar"/>
+
+    <style name="Imc.AppTheme" parent="AppTheme"/>
+
+    <style name="Imc.AppTheme.TranslucentStatusBar" parent="AppTheme.TranslucentStatusBar"/>
+
+    <style name="Imc.TextView" parent="Base.TextView"/>
+
+    <style name="Imc.TextView.List" parent="Base.TextView.List"/>
+
+    <style name="Imc.TextView.List.Header" parent="Base.TextView.List.Header"/>
+
+    <style name="Imc.TextView.NavigationHeader" parent="Base.TextView.NavigationHeader"/>
+
+    <style name="Imc.Button" parent="Base.Button"/>
+
+    <style name="Base"/>
+
+    <style name="Base.Button" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/general_button_text</item>
+        <item name="android:textSize">@dimen/text_button</item>
+        <item name="android:background">@drawable/selector_button</item>
+        <item name="android:minWidth">@dimen/general_button_min_width</item>
+        <item name="android:minHeight">@dimen/general_button_min_height</item>
+        <item name="android:paddingLeft">@dimen/general_button_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/general_button_padding_horizontal</item>
+        <item name="android:paddingTop">@dimen/general_button_padding_vertical</item>
+        <item name="android:paddingBottom">@dimen/general_button_padding_vertical</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="Base.TextView" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/general_text</item>
+        <item name="android:textSize">@dimen/text</item>
+    </style>
+
+    <style name="Base.TextView.NavigationHeader">
+        <item name="android:paddingBottom">@dimen/text_title</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Base.TextView.List">
+        <item name="android:textSize">@dimen/text_list</item>
+        <item name="android:textColor">@color/list_text</item>
+    </style>
+
+    <style name="Base.TextView.List.Header">
+        <item name="android:textSize">@dimen/text_list_header</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/list_text_header</item>
+    </style>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Base Tool</string>
+    <string name="add_installation_error">Het is niet mogelijk een nieuwe installatie toe te voegen.</string>
+    <string name="add_installation_progress">Nieuwe installatie aan het toevoegen&#8230;</string>
+    <string name="add_todo_error">Het is niet mogelijk een nieuwe todo toe te voegen</string>
+    <string name="add_todo_progress">Nieuwe todo aan het toevoegen&#8230;</string>
+    <string name="client_list_title">Klantenlijst</string>
+    <string name="dialog_add_installation">Voeg nieuwe installatie toe</string>
+    <string name="dialog_add_todo">Voeg nieuwe todo toe</string>
+    <string name="dialog_cancel">Annuleren</string>
+    <string name="dialog_error">Error</string>
+    <string name="dialog_installation_hint">Installatienaam</string>
+    <string name="dialog_positive">OK</string>
+    <string name="dialog_save">Opslaan</string>
+    <string name="dialog_todo_hint">Todo beschrijving</string>
+    <string name="download_document">U bent gestart met het downloaden van %1$s</string>
+    <string name="drawer_clients">Klanten</string>
+    <string name="drawer_general">Algemeen</string>
+    <string name="drawer_log_out">Uitloggen</string>
+    <string name="drawer_not_synchronised">Niet alles is gescynchroniseerd</string>
+    <string name="drawer_sync">Synchroniseren</string>
+    <string name="drawer_synchronisation">Aan het synchroniseren</string>
+    <string name="drawer_synchronised">Alles is gesynchroniseerd</string>
+    <string name="empty_list_client_location">Er zijn geen klanten locaties</string>
+    <string name="empty_list_documents">Er zijn geen documenten voor deze locatie</string>
+    <string name="empty_list_installation">Er zijn geen installaties voor deze locatie</string>
+    <string name="list_address">%1$s, %2$s %3$s</string>
+    <string name="list_client_city">%1$s - %2$s</string>
+    <string name="login_button">Inloggen</string>
+    <string name="login_incomplete_error">Vul in elk veld een waarde in.</string>
+    <string name="login_login_error">Onmogelijk om in te loggen</string>
+    <string name="login_password">Wachtwoord</string>
+    <string name="login_progress">Inloggen&#8230;</string>
+    <string name="login_username">Gebruikersnaam</string>
+    <string name="toolbar_installation_document">%1$s - %2$s</string>
+</resources>

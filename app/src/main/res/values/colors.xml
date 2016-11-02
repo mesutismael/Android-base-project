@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="general_primary">#FF202946</color>
+    <color name="general_primary_dark">#FF072142</color>
+    <color name="general_primary_light">#FFE8F2F6</color>
+    <color name="general_accent">#FF7AC142</color>
+    <color name="general_text_light">#FFF</color>
+    <color name="general_text">#DE222222</color>
+    <color name="general_window_background">#FFFFFFFF</color>
+    <color name="general_divider">#F2422222</color>
+
+    <color name="general_list_background">@color/general_window_background</color>
+    <color name="general_list_background_pressed">@color/general_primary_light</color>
+    <color name="general_list_background_selected">@color/general_primary_light</color>
+
+    <color name="general_button_background">@color/general_accent</color>
+    <color name="general_button_text">@color/general_text_light</color>
+    <color name="general_button_background_pressed">#FF5ba122</color>
+
+    <color name="data_item_icon">#8A222222</color>
+    <color name="data_synchronised">#54c75d</color>
+    <color name="data_not_synchronised">#e90243</color>
+    <color name="data_header_text">@color/general_text_light</color>
+
+    <color name="background_list">@color/general_window_background</color>
+
+    <color name="list_text">#8A222222</color>
+    <color name="list_text_header">@color/general_text</color>
+    <color name="list_todo_done">#D3D3D3</color>
+</resources>
